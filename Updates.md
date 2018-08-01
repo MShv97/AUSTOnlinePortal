@@ -1,8 +1,8 @@
-رقم اصدار أحدث نسخة متوفرة 0.2
+رقم اصدار أحدث نسخة متوفرة 0.4
 
 روابط التحميل
 
-https://github.com/MShv97/AUSTOnlinePortal/releases/download/AustPortalappV_0.2/AustPortalappV_0.2.apk
+https://github.com/MShv97/AUSTOnlinePortal/releases/download/AUSTOnlinePortal_0.4/AustPortalapp_0.4.apk
 
 او
 
