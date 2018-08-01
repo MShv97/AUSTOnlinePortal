@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/reload_page_button"
+        android:orderInCategory="100"
+        android:title="@string/reload_page"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/checkForUpdates"
+        android:orderInCategory="200"
+        android:title="@string/checkForUpdates"
+        app:showAsAction="never" />
+
+</menu>

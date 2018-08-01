@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Title for the application. -->
+    <string name="app_name">AUST Online Portal</string>
+
+    <!-- Hint text display my name -->
+    <string name="name">Android app developed by \n St. Mohammad Shehab</string>
+
+    <!-- Hint text for the progress bar -->
+    <string name="progressBar">Loading page..</string>
+
+    <!-- Hint text display current version number of the app  -->
+    <string name="verNumber">Installed version number 0.4</string>
+
+    <!-- Hint text display reload page button  -->
+    <string name="reload_page">Reload page</string>
+
+    <!-- Hint text display check for updates button  -->
+    <string name="checkForUpdates">Check for updates</string>
+
+
+</resources>
