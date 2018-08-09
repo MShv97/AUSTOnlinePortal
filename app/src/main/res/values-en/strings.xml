@@ -10,7 +10,7 @@
     <string name="progressBar">Loading page..</string>
 
     <!-- Hint text display current version number of the app  -->
-    <string name="verNumber">Installed version number 0.4</string>
+    <string name="verNumber">Installed version number 0.5</string>
 
     <!-- Hint text display reload page button  -->
     <string name="reload_page">Reload page</string>
