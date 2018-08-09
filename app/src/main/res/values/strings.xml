@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Title for the application. -->
+    <string name="app_name">AUST Online Portal</string>
+
+    <!-- Hint text displaying my name -->
+    <string name="name">تطوير تطبيق الأندرويد\nالطالب محمد شهاب</string>
+
+    <!-- Hint text for the progress bar -->
+    <string name="progressBar">جاري التحميل ...</string>
+
+    <!-- Hint text display current version number of the app  -->
+    <string name="verNumber">النسخة المثبتة رقم 0.5</string>
+
+    <!-- Hint text display reload page button  -->
+    <string name="reload_page">اعادة تحميل</string>
+
+    <!-- Hint text display check for updates button  -->
+    <string name="checkForUpdates">التحقق من وجود تحديثات</string>
+
+
+</resources>
