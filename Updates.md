@@ -2,7 +2,7 @@
 
 روابط التحميل
 
-http://www.mediafire.com/file/e97z2y8695enzz6/AustPortalapp_05.apk/file
+http://www.mediafire.com/file/h5kcfh8teewcwag/AustPortalapp_05.apk/file
 
 للإبلاغ عن مشكلة في التطبيق راسلوني على صفحتي على الفيسبوك
 
