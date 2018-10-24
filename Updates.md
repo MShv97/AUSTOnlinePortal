@@ -1,11 +1,7 @@
-رقم اصدار أحدث نسخة متوفرة 0.5
+رقم اصدار أحدث نسخة متوفرة 1.0
 
 روابط التحميل
 
-http://www.mediafire.com/file/h5kcfh8teewcwag/AustPortalapp_05.apk/file
+http://www.mediafire.com/file/dr2ka9n87yavbrk/AUSTapp_v1.0.apk/file
 
 للإبلاغ عن مشكلة في التطبيق راسلوني على صفحتي على الفيسبوك
-
-Mohammad Shehab
-
-https://www.facebook.com/MShv97
